@@ -7,3 +7,4 @@ print("Squares:", squares)
 square_dict = {n: n*n for n in numbers}
 print("Dictionary:", square_dict)
 
+ 
