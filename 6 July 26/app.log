@@ -1,0 +1,14 @@
+2026-07-06 22:26:36,939 - INFO - GPS Location: Latitude=12.9716, Longitude=77.5946
+2026-07-06 22:28:47,708 - INFO - Application started
+2026-07-06 22:30:04,176 - ERROR - An error occurred
+Traceback (most recent call last):
+  File "C:\Users\Dell\AppData\Local\Temp\ipykernel_24512\2821588325.py", line 6, in <module>
+    result = 10 / 0
+             ~~~^~~
+ZeroDivisionError: division by zero
+2026-07-06 22:30:24,160 - ERROR - An error occurred
+Traceback (most recent call last):
+  File "C:\Users\Dell\AppData\Local\Temp\ipykernel_24512\2461739678.py", line 7, in <module>
+    result = 10 / 0
+             ~~~^~~
+ZeroDivisionError: division by zero
